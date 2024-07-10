@@ -1,0 +1,10 @@
+1.) Maple Syrup can be harvested from Maple Trees using a Tapper - True - Maple Syrup CAN be harvested from Maple Trees using a Tapper.
+2.) Cows in Stardew Valley can be milked once per day - False - Caviar is produced from specifically from Sturgeon Roe in a Preserves Jar
+3.) A Rabbit's Foot is required to complete the Chef's Bundle in the Community Center - False - A Rabbit's Foot is required for the Enchanter's Bundle
+4.) Pomegranates can be used in the Artisan Bundle - True - Pomegranates CAN be used in the Artisan Bundle.
+5.) You can grow Blue Jazz flowers in Summer - False -  Blue Jazz flowers can be grown in Spring
+6.) Duck Feathers are used to make Duck Mayo - False - Duck Feathers are not used to make Duck Mayo; Duck Eggs are
+7.) The Rainbow Shell is a foraged item that can be found on the beach in Summer - True - The Rainbow Shell IS a foraged item that can be found on the beach in Summer.
+8.) You can place a Stardew Valley Fair Grange Display item on any villager's grange display - False - You can only place items on your own Grange Display
+9.) You can make Bread using Wheat in the Mill - False - Bread is made using Wheat Flour in the kitchen
+10.) The Ostrich Egg can be placed in an incubator to hatch an Ostrich - True - The Ostrich Egg CAN be placed in an incubator to hatch an Ostrich.
