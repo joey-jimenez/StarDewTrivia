@@ -20,3 +20,50 @@ Open the project in Android Studio.
 Build the project to ensure all dependencies are resolved.
 
 Deploy the application to an Android device or emulator.
+
+
+# Usage
+
+## MainActivity
+
+Displays the welcome screen.
+
+Plays a mouse click sound when the start button is pressed.
+
+Navigates to the SeasonSelectionActivity.
+
+
+## SeasonSelectionActivity
+Displays buttons for each season.
+
+Reads season data from a CSV file.
+
+Plays a mouse click sound when a season button is pressed.
+
+Navigates to the ItemListActivity with the selected season code.
+
+
+## ItemListActivity
+Displays items for the selected season.
+
+Reads item data from a CSV file.
+
+Allows users to view item details, select items, and adjust quantities.
+
+Navigates to the ShoppingListActivity with the selected items.
+
+
+## ShoppingListActivity
+
+Displays the selected items with their quantities.
+
+Allows users to adjust item quantities and see the updated total cost.
+
+Navigates back to the SeasonSelectionActivity after purchase.
+
+
+## CSVReader
+
+Utility class for reading and parsing CSV files.
+
+Provides methods to read season and item data from CSV files in the assets folder.
